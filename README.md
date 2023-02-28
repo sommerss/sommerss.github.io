@@ -1,12 +1,12 @@
 # sommerss.github.io
 
 
+
 <html>
 
 
 
-
- 
+<body>
 
     <div id="score">0</div>
     <canvas id="snakeboard" width="500" height="500"></canvas>
@@ -23,7 +23,7 @@
         font-size: 75px;
       }
     </style>
-
+  </body>
 
   <script>
     const board_border = 'black';
@@ -307,11 +307,6 @@ function login_user(){
 
 
 </script>
-
- 
- 
- 
-  
 
 
 
