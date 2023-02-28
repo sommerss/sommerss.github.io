@@ -1,12 +1,12 @@
 # sommerss.github.io
 
-<!DOCTYPE html>
+
 <html>
 
 
 
 
-  <body>
+ 
 
     <div id="score">0</div>
     <canvas id="snakeboard" width="500" height="500"></canvas>
