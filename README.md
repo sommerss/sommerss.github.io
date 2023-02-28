@@ -4,22 +4,7 @@
 <html>
 
 
-<head>
-  <title>car</title>
-</head>
-<body>
-  <div style = "position:fixed; left: 300px; top: 100px;">
-    <img src="car.png">
- </div>
 
- 
-  
-</body>
-  
-</body>
-  <head>
-  	<title>snake!</title>
-  </head>
 
   <body>
 
@@ -322,23 +307,6 @@ function login_user(){
 
 
 </script>
-<head>
-  <title>hampy</title>
-</head>
-<body>
-  <div style = "position:fixed; left:1100px; top: 0px;">
-    <img src="ad.png">
- </div>
-  
-</body>
-
-<head>
-  <title>hamp</title>
-</head>
-<body>
-  <div style = "position:fixed; left: 0px; top: 500px;">
-    <img src="h.png">
- </div>
 
  
  
