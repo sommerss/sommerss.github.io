@@ -23,7 +23,7 @@
         font-size: 75px;
       }
     </style>
-  </body>
+
 
   <script>
     const board_border = 'black';
@@ -312,7 +312,7 @@ function login_user(){
  
  
   
-</body>
+
 
 
 </html>
